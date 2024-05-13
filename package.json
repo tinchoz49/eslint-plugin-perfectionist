@@ -68,7 +68,7 @@
     }
   },
   "peerDependencies": {
-    "astro-eslint-parser": "^0.16.0",
+    "astro-eslint-parser": "^1.0.2",
     "eslint": ">=8.0.0",
     "svelte": ">=3.0.0",
     "svelte-eslint-parser": "^0.33.0",
